@@ -49,12 +49,6 @@ struct GameDeveloper
         "GitHub",
         "Notion"
     };
-
-    const char* aiAgents[] =
-    {
-        "OpenAI Codex",
-        "Claude"
-    };
 };
 ```
 
