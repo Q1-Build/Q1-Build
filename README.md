@@ -70,9 +70,9 @@ struct GameDeveloper
 
 ## 🎮 Featured Projects
 
-Projects are ordered from newest to oldest.
+Projects are displayed from newest to oldest, while project numbers follow the order in which they were created.
 
-### 01. Z_Defense
+### 04. Z_Defense
 
 <!-- GIF: ./assets/projects/z-defense/gameplay.gif -->
 
@@ -99,7 +99,7 @@ Isometric · Zombie Apocalypse · Idle Game · Turret Defense
 
 ---
 
-### 02. Act Normal
+### 03. Act Normal
 
 <!-- GIF: ./assets/projects/act-normal/gameplay.gif -->
 
@@ -125,7 +125,7 @@ Multiplayer · Social Deduction · NPC Disguise · Hide and Seek
 
 ---
 
-### 03. MOOD
+### 02. MOOD
 
 <!-- GIF: ./assets/projects/mood/gameplay.gif -->
 
@@ -151,7 +151,7 @@ Team project
 
 ---
 
-### 04. CrystalCore
+### 01. CrystalCore
 
 <!-- GIF: ./assets/projects/crystalcore/gameplay.gif -->
 
