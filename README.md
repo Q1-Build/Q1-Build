@@ -66,7 +66,9 @@ Projects are displayed from newest to oldest, while project numbers follow the o
 
 ### 04. Z_Defense
 
-> Gameplay preview is shown in the Recent Project section above.
+<p align="center">
+  <img src="./assets/projects/z-defense/gameplay.gif.gif" alt="Z_Defense gameplay preview" width="640" />
+</p>
 
 An isometric zombie-apocalypse idle turret-defense game designed for mobile platforms.
 
