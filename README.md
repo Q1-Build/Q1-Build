@@ -145,9 +145,9 @@ Team project
 
 ### 01. CrystalCore
 
-<!-- GIF: ./assets/projects/crystalcore/gameplay.gif -->
-
-> 🎞️ Gameplay GIF slot reserved
+<p align="center">
+  <img src="./assets/crystal-core/Crystal-Core.gif" alt="CrystalCore gameplay preview" width="640" />
+</p>
 
 My first personal Unity project, created as a Vampire Survivors-style game recreation.
 
