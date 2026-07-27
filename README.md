@@ -205,7 +205,13 @@ Solo personal project
 
 <br>
 
-## 📫 Contact & Support
+## 🔗 Explore & Support
 
-[![GitHub](https://img.shields.io/badge/GitHub-Q1--Build-181717?style=flat-square&logo=github)](https://github.com/Q1-Build)
-[![Sponsor Q1-Build](https://img.shields.io/badge/Sponsor-Q1--Build-pink?style=flat-square&logo=GitHub+Sponsors&logoColor=white)](https://github.com/sponsors/Q1-Build)
+<p align="left">
+  <a href="https://github.com/Q1-Build?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Q1-Build repositories" />
+  </a>
+  <a href="https://github.com/sponsors/Q1-Build">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Support_Q1--Build-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Q1-Build" />
+  </a>
+</p>
