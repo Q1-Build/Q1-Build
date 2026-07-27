@@ -24,6 +24,9 @@ Replace the blockquote below with:
 
 An isometric zombie-apocalypse idle turret-defense mobile game developed as a team project.
 
+**My Role**  
+I planned and developed the turret systems that form the game's core gameplay, while also contributing to audio, map design, optimization, and item planning.
+
 `Unity` · `C#` · `Mobile` · `Isometric` · `Idle Defense` · `Turret Defense`
 
 [View Repository](https://github.com/kyungil-meta12/CT02-Project_Z_Defense)
@@ -83,6 +86,14 @@ Team project
 **Genre**  
 Isometric · Zombie Apocalypse · Idle Game · Turret Defense
 
+**Role & Contributions**
+
+- Planned and developed the turret systems that drive the main gameplay loop.
+- Handled turret-related audio planning and implementation.
+- Designed the game map and overall combat-space layout.
+- Worked on performance optimization for the game environment and gameplay systems.
+- Planned item concepts and their role within the game loop.
+
 **Repository**  
 [kyungil-meta12/CT02-Project_Z_Defense](https://github.com/kyungil-meta12/CT02-Project_Z_Defense)
 
@@ -101,6 +112,13 @@ Team project
 
 **Genre**  
 Multiplayer · Social Deduction · NPC Disguise · Hide and Seek
+
+**Role & Contributions**
+
+- Planned and developed the project's main gameplay content and core player experience.
+- Worked on the NPC-disguise and mission-based gameplay concepts that define the project.
+- Contributed to the visual art direction and production of selected art assets.
+- Designed and implemented parts of the user interface.
 
 **Repository**  
 `Private Team Repository`
@@ -121,6 +139,13 @@ Team project
 **Genre**  
 3D · First-Person Shooter · Action
 
+**Role & Contributions**
+
+- Developed the enemy spawn system used to control combat encounters.
+- Set up and worked with NavMesh-based navigation for enemy movement.
+- Designed the level layout and encounter spaces.
+- Created camera direction and presentation for gameplay moments.
+
 **Repository**  
 `Private Team Repository`
 
@@ -135,10 +160,17 @@ Team project
 My first personal Unity project, created as a Vampire Survivors-style game recreation.
 
 **Project Type**  
-Personal project
+Solo personal project
 
 **Genre**  
 2D · Survival Action · Roguelite
+
+**Role & Key Learning**
+
+- Designed and implemented the full project independently.
+- Learned how to structure gameplay data with ScriptableObjects.
+- Established a basic foundation for organizing gameplay systems and project architecture.
+- Implemented object pooling and other introductory optimization techniques.
 
 **Repository**  
 `Private Repository`
