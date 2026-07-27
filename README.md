@@ -69,6 +69,11 @@ Projects are displayed from newest to oldest, while project numbers follow the o
 <p align="center">
   <img src="./assets/projects/z-defense/gameplay.gif.gif" alt="Z_Defense gameplay preview" width="640" />
 </p>
+<p align="center">
+  <a href="https://youtube.com/shorts/PVTNwk-k4xc?feature=share">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Z_Defense on YouTube" />
+  </a>
+</p>
 
 An isometric zombie-apocalypse idle turret-defense game designed for mobile platforms.
 
@@ -96,6 +101,11 @@ Isometric · Zombie Apocalypse · Idle Game · Turret Defense
 <p align="center">
   <img src="./assets/act-normal/Act-Normal.gif" alt="Act Normal gameplay preview" width="640" />
 </p>
+<p align="center">
+  <a href="https://youtu.be/0gU7_gaKVCU">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Act Normal on YouTube" />
+  </a>
+</p>
 
 A social-deduction game and my first project featuring networked multiplayer functionality.
 
@@ -122,6 +132,11 @@ Multiplayer · Social Deduction · NPC Disguise · Hide and Seek
 <p align="center">
   <img src="./assets/mood/MOOD.gif" alt="MOOD gameplay preview" width="640" />
 </p>
+<p align="center">
+  <a href="https://youtu.be/_kkI0JHAeRY">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch MOOD on YouTube" />
+  </a>
+</p>
 
 A first-person FPS inspired by Doom and my first Unity 3D game project.
 
@@ -147,6 +162,11 @@ Team project
 
 <p align="center">
   <img src="./assets/crystal-core/Crystal-Core.gif" alt="CrystalCore gameplay preview" width="640" />
+</p>
+<p align="center">
+  <a href="https://youtu.be/Z403AX2haBE">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch CrystalCore on YouTube" />
+  </a>
 </p>
 
 My first personal Unity project, created as a Vampire Survivors-style game recreation.
