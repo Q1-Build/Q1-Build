@@ -119,9 +119,9 @@ Multiplayer · Social Deduction · NPC Disguise · Hide and Seek
 
 ### 02. MOOD
 
-<!-- GIF: ./assets/projects/mood/gameplay.gif -->
-
-> 🎞️ Gameplay GIF slot reserved
+<p align="center">
+  <img src="./assets/mood/MOOD.gif" alt="MOOD gameplay preview" width="640" />
+</p>
 
 A first-person FPS inspired by Doom and my first Unity 3D game project.
 
