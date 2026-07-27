@@ -10,17 +10,9 @@ Unity game developer focused on building maintainable gameplay systems, reusable
 
 ### Z_Defense
 
-<!--
-GIF SLOT
-Replace the blockquote below with:
-
 <p align="center">
-  <img src="./assets/projects/z-defense/gameplay.gif" alt="Z_Defense gameplay preview" width="100%" />
+  <img src="./assets/projects/z-defense/gameplay.gif.gif" alt="Z_Defense gameplay preview" width="640" />
 </p>
--->
-
-> 🎞️ **Gameplay preview coming soon**  
-> Planned asset: `assets/projects/z-defense/gameplay.gif`
 
 An isometric zombie-apocalypse idle turret-defense mobile game developed as a team project.
 
@@ -74,9 +66,7 @@ Projects are displayed from newest to oldest, while project numbers follow the o
 
 ### 04. Z_Defense
 
-<!-- GIF: ./assets/projects/z-defense/gameplay.gif -->
-
-> 🎞️ Gameplay GIF slot reserved
+> Gameplay preview is shown in the Recent Project section above.
 
 An isometric zombie-apocalypse idle turret-defense game designed for mobile platforms.
 
