@@ -12,11 +12,11 @@ struct GameDeveloper
     const char* engines[]   = { "Unity" };
     const char* languages[] = { "C#", "C" };
     const char* pipeline[]  = { "Git", "GitHub", "Notion" };
-    const char* ai_agents[] = { "OpenAI Codex", "Claude Sonnet" };
+    const char* ai_agents[] = { "OpenAI Codex", "Claude Opus" };
 };
 ```
 
-[![Sponsor Cryo-Node](https://img.shields.io/badge/Sponsor-Cryo--Node-pink?style=flat-square&logo=GitHub+Sponsors&logoColor=white)](https://github.com/sponsors/Cryo-Node)
+[![Sponsor Q1-Build](https://img.shields.io/badge/Sponsor-Q1--Build-pink?style=flat-square&logo=GitHub+Sponsors&logoColor=white)](https://github.com/sponsors/Q1-Build)
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
