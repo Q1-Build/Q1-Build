@@ -93,9 +93,9 @@ Isometric · Zombie Apocalypse · Idle Game · Turret Defense
 
 ### 03. Act Normal
 
-<!-- GIF: ./assets/projects/act-normal/gameplay.gif -->
-
-> 🎞️ Gameplay GIF slot reserved
+<p align="center">
+  <img src="./assets/act-normal/Act-Normal.gif" alt="Act Normal gameplay preview" width="640" />
+</p>
 
 A social-deduction game and my first project featuring networked multiplayer functionality.
 
