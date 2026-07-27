@@ -9,10 +9,32 @@
 ```cpp
 struct GameDeveloper
 {
-    const char* engines[]   = { "Unity" };
-    const char* languages[] = { "C#", "C" };
-    const char* pipeline[]  = { "Git", "GitHub", "Notion" };
-    const char* ai_agents[] = { "OpenAI Codex", "Claude Opus" };
+    Engine      = Unity6;
+
+    Language    = C#;
+
+    Architecture =
+    {
+        EventBus,
+        ObjectPooling,
+        ScriptableObject,
+        StateMachine,
+        DependencyInjection
+    };
+
+    Tools =
+    {
+        Rider,
+        Git,
+        GitHub,
+        Notion
+    };
+
+    AI =
+    {
+        Codex,
+        Claude
+    };
 };
 ```
 
