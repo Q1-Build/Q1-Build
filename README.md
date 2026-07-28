@@ -58,7 +58,7 @@ struct GameDeveloper
 
 Projects are displayed from newest to oldest, while project numbers follow the order in which they were created.
 
-### 04. Z_Defense
+### 05. Z_Defense
 
 <p align="center">
   <img src="./assets/projects/z-defense/gameplay.gif.gif" alt="Z_Defense gameplay preview" width="640" />
@@ -90,7 +90,7 @@ Isometric · Zombie Apocalypse · Idle Game · Turret Defense
 
 ---
 
-### 03. Act Normal
+### 04. Act Normal
 
 <p align="center">
   <img src="./assets/act-normal/Act-Normal.gif" alt="Act Normal gameplay preview" width="640" />
@@ -121,7 +121,7 @@ Multiplayer · Social Deduction · NPC Disguise · Hide and Seek
 
 ---
 
-### 02. MOOD
+### 03. MOOD
 
 <p align="center">
   <img src="./assets/mood/MOOD.gif" alt="MOOD gameplay preview" width="640" />
@@ -152,7 +152,7 @@ Team project
 
 ---
 
-### 01. CrystalCore
+### 02. CrystalCore
 
 <p align="center">
   <img src="./assets/crystal-core/Crystal-Core.gif" alt="CrystalCore gameplay preview" width="640" />
@@ -181,6 +181,34 @@ Solo personal project
 **Repository**  
 `Private Repository`
 
+---
+
+### 01. Reversi CLI Game
+
+<!-- GIF: ./assets/reversi/Reversi.gif -->
+
+> 🎞️ Gameplay GIF slot reserved
+
+My first coded game: a command-line board game inspired by Reversi/Othello.
+
+_Refactored once after the initial implementation._
+
+**Project Type**  
+Solo learning project
+
+**Genre**  
+CLI · Turn-Based · Board Game
+
+**Role & Key Learning**
+
+- Built a complete turn-based game loop without a game engine.
+- Represented the board state and processed player input through the console.
+- Practiced validating legal moves and checking captured pieces in multiple directions.
+- Learned foundational control flow, state management, and debugging through a complete game project.
+
+**Repository**  
+[Q1-Build/002-CLIGame-REVERSI](https://github.com/Q1-Build/002-CLIGame-REVERSI)
+
 <br>
 
 ## 🧩 Engineering Principles[SOLID]
@@ -199,7 +227,6 @@ Solo personal project
 
 - (D) Dependency Inversion Principle (DIP)
   Depend on abstractions, not concrete implementations.
-
 
 - **Maintainability first** — Build systems that remain understandable as the project grows.
 - **Data-driven gameplay** — Keep gameplay values separate from runtime behavior where practical.
