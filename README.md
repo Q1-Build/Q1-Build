@@ -183,7 +183,23 @@ Solo personal project
 
 <br>
 
-## 🧩 Engineering Principles
+## 🧩 Engineering Principles[SOLID]
+
+- (S) Single Responsibility Principle (SRP)
+  One class, one responsibility.
+
+- (O) Open/Closed Principle (OCP)
+  Open for extension, closed for modification.
+
+- (L) Liskov Substitution Principle (LSP)
+  Derived classes must be substitutable for their base classes.
+
+- (I) Interface Segregation Principle (ISP)
+  Prefer many small interfaces over one large interface.
+
+- (D) Dependency Inversion Principle (DIP)
+  Depend on abstractions, not concrete implementations.
+
 
 - **Maintainability first** — Build systems that remain understandable as the project grows.
 - **Data-driven gameplay** — Keep gameplay values separate from runtime behavior where practical.
