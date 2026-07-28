@@ -191,6 +191,8 @@ Solo personal project
 
 My first coded game: a command-line board game inspired by Reversi/Othello.
 
+_Refactored once after the initial implementation._
+
 **Project Type**  
 Solo learning project
 
