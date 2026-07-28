@@ -185,9 +185,9 @@ Solo personal project
 
 ### 01. Reversi CLI Game
 
-<!-- GIF: ./assets/reversi/Reversi.gif -->
-
-> 🎞️ Gameplay GIF slot reserved
+<p align="center">
+  <img src="./assets/reversi/Reversi.gif" alt="Reversi CLI Game gameplay preview" width="640" />
+</p>
 
 My first coded game: a command-line board game inspired by Reversi/Othello.
 
