@@ -21,11 +21,11 @@ Keep the main sections in this order:
 
 1. Introduction
 2. Recent Project
-3. Core Stack & Practices
+3. Core Stack & Tools
 4. Featured Projects
 5. Engineering Approach
 6. Development Activity
-7. Explore & Support
+7. Explore
 
 Do not add maintenance notes, writing rules, or internal checklists to
 `README.md`.
@@ -60,8 +60,17 @@ One-sentence project description.
 **Project Type**
 Solo personal project or team project
 
+**Period**
+Verified development period
+
+**Team Size**
+Verified number of contributors
+
+**Platform**
+Target platform
+
 **Genre**
-Genre · Platform · Key characteristic
+Genre · Key characteristic
 
 **Role & Contributions**
 
@@ -71,7 +80,7 @@ Genre · Platform · Key characteristic
 
 **Technical Highlights**
 
-- Problem, implementation choice, and result
+- Concrete implementation, ideally described as problem, decision, and result
 
 **Repository**
 Repository link or an explicit private-repository label
@@ -79,6 +88,13 @@ Repository link or an explicit private-repository label
 
 - Omit an unavailable optional field instead of adding an empty placeholder.
 - Distinguish personal contributions from the team's overall work.
+- Use `Role & Contributions` for team or delivery-focused projects. Use
+  `Role & Key Learning` only when learning outcomes are the main value of an
+  early solo project.
+- Add `Period`, `Team Size`, and `Platform` as comparable metadata when the
+  information has been verified.
+- Add Technical Highlights only when a concrete implementation choice or result
+  can be described without repeating the role list.
 - For private repositories, provide public evidence when possible, such as a
   gameplay video, architecture diagram, sanitized code sample, or technical
   retrospective.
@@ -103,6 +119,9 @@ Repository link or an explicit private-repository label
 - Use `csharp` for C# code fences.
 - Code shown in the README must be syntactically valid or clearly labeled as
   pseudocode.
+- Keep Core Stack & Tools limited to the engine, language, and working tools.
+- Put design principles under Engineering Approach and concrete pattern usage
+  under the relevant project's Technical Highlights.
 - List only technologies and practices that are supported by project work.
 - Detailed Unity/C# source conventions belong in each game repository, not in
   this profile repository.
@@ -134,6 +153,8 @@ Repository link or an explicit private-repository label
 - Do not manually edit files under `profile-3d-contrib/`.
 - Treat `.github/workflows/profile-3d.yml` as the owner of those generated
   files.
+- Pin third-party actions to a released version and stage only
+  `profile-3d-contrib/` in the generation workflow.
 - Do not treat files under `.git/`, including hook samples, as portfolio source
   files.
 - Keep generated contribution updates separate from hand-authored portfolio

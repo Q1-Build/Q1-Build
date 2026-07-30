@@ -25,31 +25,17 @@ An isometric zombie-apocalypse idle turret-defense mobile game developed as a te
 
 <br>
 
-## 🛠️ Core Stack & Practices
+## 🛠️ Core Stack & Tools
 
 ```csharp
-public static class GameDeveloper
+public static class DeveloperToolkit
 {
     public const string Engine = "Unity 6";
     public const string Language = "C#";
-
-    public static readonly string[] Architecture =
-    {
-        "Event-Driven Architecture",
-        "Object Pooling",
-        "ScriptableObject Data",
-        "State Machine",
-        "Component-Based Design"
-    };
-
-    public static readonly string[] Tools =
-    {
-        "JetBrains Rider",
-        "Git",
-        "GitHub",
-        "Notion"
-    };
-};
+    public const string IDE = "JetBrains Rider";
+    public const string VersionControl = "Git & GitHub";
+    public const string Documentation = "Notion";
+}
 ```
 
 <br>
@@ -142,10 +128,13 @@ Team project
 
 **Role & Contributions**
 
-- Developed the enemy spawn system used to control combat encounters.
-- Set up and worked with NavMesh-based navigation for enemy movement.
 - Designed the level layout and encounter spaces.
 - Created camera direction and presentation for gameplay moments.
+
+**Technical Highlights**
+
+- Developed the enemy spawn system used to control combat encounters.
+- Configured NavMesh-based navigation for enemy movement.
 
 **Repository**  
 `Private Team Repository`
@@ -174,9 +163,12 @@ Solo personal project
 **Role & Key Learning**
 
 - Designed and implemented the full project independently.
-- Learned how to structure gameplay data with ScriptableObjects.
 - Established a basic foundation for organizing gameplay systems and project architecture.
-- Implemented object pooling and other introductory optimization techniques.
+
+**Technical Highlights**
+
+- Structured gameplay data with ScriptableObjects.
+- Implemented object pooling as an introductory optimization technique.
 
 **Repository**  
 `Private Repository`
@@ -202,9 +194,12 @@ CLI · Turn-Based · Board Game
 **Role & Key Learning**
 
 - Built a complete turn-based game loop without a game engine.
-- Represented the board state and processed player input through the console.
-- Practiced validating legal moves and checking captured pieces in multiple directions.
 - Learned foundational control flow, state management, and debugging through a complete game project.
+
+**Technical Highlights**
+
+- Represented the board state and processed player input through the console.
+- Implemented legal-move validation and captured-piece checks across multiple directions.
 
 **Repository**  
 [Q1-Build/002-CLIGame-REVERSI](https://github.com/Q1-Build/002-CLIGame-REVERSI)
@@ -215,25 +210,22 @@ CLI · Turn-Based · Board Game
 
 - **Maintainability first** — Keep responsibilities clear and systems understandable as projects grow.
 - **Data-driven gameplay** — Separate gameplay values from runtime behavior using ScriptableObjects where appropriate.
-- **Low coupling** — Use events and focused interfaces to reduce unnecessary dependencies.
-- **Reusable systems** — Design gameplay components so they can be extended without rewriting stable behavior.
+- **Low coupling** — Prefer events and focused interfaces when they reduce unnecessary dependencies.
+- **Reusable systems** — Extend gameplay components without rewriting stable behavior where practical.
 - **Incremental architecture** — Start with the simplest viable structure and refactor when actual requirements justify it.
 
 <br>
 
 ## 📈 Development Activity
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![GitHub contribution activity](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br>
 
-## 🔗 Explore & Support
+## 🔗 Explore
 
 <p align="left">
   <a href="https://github.com/Q1-Build?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Q1-Build repositories" />
-  </a>
-  <a href="https://github.com/sponsors/Q1-Build">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-Support_Q1--Build-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Q1-Build" />
   </a>
 </p>
