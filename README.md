@@ -11,13 +11,13 @@ Unity game developer focused on building maintainable gameplay systems, reusable
 ### Z_Defense
 
 <p align="center">
-  <img src="./assets/projects/z-defense/gameplay.gif.gif" alt="Z_Defense gameplay preview" width="640" />
+  <img src="./assets/projects/z-defense/gameplay.gif" alt="Z_Defense gameplay preview" width="640" />
 </p>
 
 An isometric zombie-apocalypse idle turret-defense mobile game developed as a team project.
 
-**My Role**  
-I planned and developed the turret systems that form the game's core gameplay, while also contributing to audio, map design, optimization, and item planning.
+- Designed and developed the turret systems that drive the core gameplay loop.
+- Contributed to audio, map design, optimization, and item planning.
 
 `Unity` · `C#` · `Mobile` · `Isometric` · `Idle Defense` · `Turret Defense`
 
@@ -25,15 +25,15 @@ I planned and developed the turret systems that form the game's core gameplay, w
 
 <br>
 
-## 🛠️ Core Stack & Infrastructure
+## 🛠️ Core Stack & Practices
 
-```cpp
-struct GameDeveloper
+```csharp
+public static class GameDeveloper
 {
-    const char* engine   = "Unity 6";
-    const char* language = "C#";
+    public const string Engine = "Unity 6";
+    public const string Language = "C#";
 
-    const char* architecture[] =
+    public static readonly string[] Architecture =
     {
         "Event-Driven Architecture",
         "Object Pooling",
@@ -42,7 +42,7 @@ struct GameDeveloper
         "Component-Based Design"
     };
 
-    const char* tools[] =
+    public static readonly string[] Tools =
     {
         "JetBrains Rider",
         "Git",
@@ -61,7 +61,7 @@ Projects are displayed from newest to oldest, while project numbers follow the o
 ### 05. Z_Defense
 
 <p align="center">
-  <img src="./assets/projects/z-defense/gameplay.gif.gif" alt="Z_Defense gameplay preview" width="640" />
+  <img src="./assets/projects/z-defense/gameplay.gif" alt="Z_Defense gameplay preview" width="640" />
 </p>
 <p align="center">
   <a href="https://youtube.com/shorts/PVTNwk-k4xc?feature=share">
@@ -93,7 +93,7 @@ Isometric · Zombie Apocalypse · Idle Game · Turret Defense
 ### 04. Act Normal
 
 <p align="center">
-  <img src="./assets/act-normal/Act-Normal.gif" alt="Act Normal gameplay preview" width="640" />
+  <img src="./assets/projects/act-normal/gameplay.gif" alt="Act Normal gameplay preview" width="640" />
 </p>
 <p align="center">
   <a href="https://youtu.be/0gU7_gaKVCU">
@@ -124,7 +124,7 @@ Multiplayer · Social Deduction · NPC Disguise · Hide and Seek
 ### 03. MOOD
 
 <p align="center">
-  <img src="./assets/mood/MOOD.gif" alt="MOOD gameplay preview" width="640" />
+  <img src="./assets/projects/mood/gameplay.gif" alt="MOOD gameplay preview" width="640" />
 </p>
 <p align="center">
   <a href="https://youtu.be/_kkI0JHAeRY">
@@ -155,7 +155,7 @@ Team project
 ### 02. CrystalCore
 
 <p align="center">
-  <img src="./assets/crystal-core/Crystal-Core.gif" alt="CrystalCore gameplay preview" width="640" />
+  <img src="./assets/projects/crystal-core/gameplay.gif" alt="CrystalCore gameplay preview" width="640" />
 </p>
 <p align="center">
   <a href="https://youtu.be/Z403AX2haBE">
@@ -186,7 +186,7 @@ Solo personal project
 ### 01. Reversi CLI Game
 
 <p align="center">
-  <img src="./assets/reversi/Reversi.gif" alt="Reversi CLI Game gameplay preview" width="640" />
+  <img src="./assets/projects/reversi/gameplay.gif" alt="Reversi CLI Game gameplay preview" width="640" />
 </p>
 
 My first coded game: a command-line board game inspired by Reversi/Othello.
@@ -211,28 +211,13 @@ CLI · Turn-Based · Board Game
 
 <br>
 
-## 🧩 Engineering Principles[SOLID]
+## 🧩 Engineering Approach
 
-- (S) Single Responsibility Principle (SRP)
-  One class, one responsibility.
-
-- (O) Open/Closed Principle (OCP)
-  Open for extension, closed for modification.
-
-- (L) Liskov Substitution Principle (LSP)
-  Derived classes must be substitutable for their base classes.
-
-- (I) Interface Segregation Principle (ISP)
-  Prefer many small interfaces over one large interface.
-
-- (D) Dependency Inversion Principle (DIP)
-  Depend on abstractions, not concrete implementations.
-
-- **Maintainability first** — Build systems that remain understandable as the project grows.
-- **Data-driven gameplay** — Keep gameplay values separate from runtime behavior where practical.
-- **Reusable systems** — Design common systems so they can be extended across future projects.
-- **Low coupling** — Prefer events, interfaces, and clear component boundaries over unnecessary direct dependencies.
-- **Incremental architecture** — Start simple, then introduce complexity only when the project genuinely requires it.
+- **Maintainability first** — Keep responsibilities clear and systems understandable as projects grow.
+- **Data-driven gameplay** — Separate gameplay values from runtime behavior using ScriptableObjects where appropriate.
+- **Low coupling** — Use events and focused interfaces to reduce unnecessary dependencies.
+- **Reusable systems** — Design gameplay components so they can be extended without rewriting stable behavior.
+- **Incremental architecture** — Start with the simplest viable structure and refactor when actual requirements justify it.
 
 <br>
 
