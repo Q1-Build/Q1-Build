@@ -25,7 +25,7 @@ Keep the main sections in this order:
 4. Featured Projects
 5. Engineering Approach
 6. Development Activity
-7. Explore
+7. Explore & Support
 
 Do not add maintenance notes, writing rules, or internal checklists to
 `README.md`.

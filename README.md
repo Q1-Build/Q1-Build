@@ -222,10 +222,13 @@ CLI · Turn-Based · Board Game
 
 <br>
 
-## 🔗 Explore
+## 🔗 Explore & Support
 
 <p align="left">
   <a href="https://github.com/Q1-Build?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Q1-Build repositories" />
+  </a>
+  <a href="https://github.com/sponsors/Q1-Build">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Support_Q1--Build-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support Q1-Build through GitHub Sponsors" />
   </a>
 </p>
