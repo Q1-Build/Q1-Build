@@ -137,7 +137,7 @@ Team project
 - Configured NavMesh-based navigation for enemy movement.
 
 **Repository**  
-`Private Team Repository`
+[myth0629/T03_3DGame_MOOD-Portfolio](https://github.com/myth0629/T03_3DGame_MOOD-Portfolio)
 
 ---
 
