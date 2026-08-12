@@ -44,6 +44,71 @@ public static class DeveloperToolkit
 
 Projects are displayed from newest to oldest, while project numbers follow the order in which they were created.
 
+### 07. DESCENT
+
+<p align="center">
+  <img src="./assets/projects/descent/gameplay.gif" alt="DESCENT gameplay preview" width="640" />
+</p>
+<p align="center">
+  <a href="https://youtu.be/PQOfrurfewY">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch DESCENT on YouTube" />
+  </a>
+</p>
+
+A 2.5D raycasting action-horror FPS built with C++ and SFML without a game engine.
+
+**Project Type**<br>
+Solo personal project
+
+**Platform**<br>
+Windows
+
+**Genre**<br>
+2.5D · Action Horror · First-Person Shooter · Raycasting
+
+**Role & Contributions**
+
+- Developed the project independently from its initial concept into a complete 10–15 minute playable demo.
+- Designed the journey from a sealed research facility to a city-square boss encounter and final extraction.
+- Used SFML's 2D graphics capabilities with raycasting to create a pseudo-3D experience, with CMake managing the project build.
+
+**Repository**<br>
+[Q1-Build/DESCENT](https://github.com/Q1-Build/DESCENT)
+
+---
+
+### 06. SS_Enhance
+
+<p align="center">
+  <img src="./assets/projects/ss-enhance/gameplay.gif" alt="SS_Enhance gameplay preview" width="640" />
+</p>
+<p align="center">
+  <a href="https://youtu.be/Y67ynPQhF5U">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch SS_Enhance on YouTube" />
+  </a>
+</p>
+
+My first C++ game project: a Windows console game about forging and evolving a sword through a series of boss battles.
+
+**Project Type**<br>
+Solo personal project
+
+**Platform**<br>
+Windows Console
+
+**Genre**<br>
+Console · Sword Forging · Timing · Boss Battle
+
+**Role & Key Learning**
+
+- Designed and implemented the complete game independently, including real-time forging, progression, three boss battles, and an ending.
+- Used the project to learn C++ while expanding a simple enhancement concept into a complete playable loop.
+
+**Repository**<br>
+[Q1-Build/ConsoleGame_SS_Enhance](https://github.com/Q1-Build/ConsoleGame_SS_Enhance)
+
+---
+
 ### 05. Z_Defense
 
 <p align="center">
