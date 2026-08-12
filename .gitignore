@@ -24,3 +24,6 @@ cmake-build-*/
 
 # IntelliJ build output
 out/
+
+### Local-only notes
+/*.local.md
