@@ -31,7 +31,7 @@ An isometric zombie-apocalypse idle turret-defense mobile game developed as a te
 public static class DeveloperToolkit
 {
     public const string Engine = "Unity 6";
-    public const string Language = "C#";
+    public const string Language = "C# & C++";
     public const string IDE = "JetBrains Rider";
     public const string VersionControl = "Git & GitHub";
     public const string Documentation = "Notion";
