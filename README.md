@@ -8,20 +8,16 @@ Unity game developer focused on building maintainable gameplay systems, reusable
 
 ## 🚀 Recent Project
 
-### Z_Defense
+### ANNA TAKES ALL!
 
-<p align="center">
-  <img src="./assets/projects/z-defense/gameplay.gif" alt="Z_Defense gameplay preview" width="640" />
-</p>
+A 2–6-player third-person arena game built with Unreal Engine 5 and C++.
 
-An isometric zombie-apocalypse idle turret-defense mobile game developed as a team project.
+- Developed server-authoritative gameplay and online session flows.
+- Implemented gameplay UI and player settings, and integrated combat feedback.
 
-- Designed and developed the turret systems that drive the core gameplay loop.
-- Contributed to audio, map design, optimization, and item planning.
+`Unreal Engine 5` · `C++` · `Windows` · `Online Multiplayer`
 
-`Unity` · `C#` · `Mobile` · `Isometric` · `Idle Defense` · `Turret Defense`
-
-[View Repository](https://github.com/kyungil-meta12/CT02-Project_Z_Defense)
+[Private Team Repository](https://github.com/Q1-Build/ANNA-TAKES-ALL-)
 
 <br>
 
@@ -43,6 +39,31 @@ public static class DeveloperToolkit
 ## 🎮 Featured Projects
 
 Projects are displayed from newest to oldest, while project numbers follow the order in which they were created.
+
+### 08. ANNA TAKES ALL!
+
+A third-person multiplayer arena game where 2–6 players collect items and use character-specific abilities to compete across three rounds.
+
+**Project Type**<br>
+Team project
+
+**Platform**<br>
+Windows
+
+**Genre**<br>
+Third-Person · Competitive Action · Multiplayer Arena · Item Collection
+
+**Role & Contributions**
+
+- Implemented server-authoritative gameplay, including character attacks and abilities, round progression, scoring, and match results.
+- Built local area network (LAN), Epic Online Services (EOS), and Steam session flows for custom rooms, six-player matchmaking, and recovery from join and leave failures.
+- Connected gameplay UI, scoreboards, and result screens to game state, and implemented display, audio, and key-binding settings with apply, save, and restore behavior.
+- Integrated character animations, sound effects, camera responses, and crosshair feedback with attack, hit, and movement states.
+
+**Repository**<br>
+[Private Team Repository](https://github.com/Q1-Build/ANNA-TAKES-ALL-)
+
+---
 
 ### 07. DESCENT
 
