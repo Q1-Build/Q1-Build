@@ -56,6 +56,9 @@ A third-person multiplayer arena game where 2–6 players collect items and use 
 **Project Type**<br>
 Team project
 
+**Team Size**<br>
+2 members · [Q1-Build](https://github.com/Q1-Build) · [40RTY](https://github.com/40RTY4)
+
 **Platform**<br>
 Windows
 
@@ -158,8 +161,11 @@ Console · Sword Forging · Timing · Boss Battle
 
 An isometric zombie-apocalypse idle turret-defense game designed for mobile platforms.
 
-**Project Type**  
+**Project Type**<br>
 Team project
+
+**Team Size**<br>
+3 members · [Q1-Build](https://github.com/Q1-Build) · [bornyou](https://github.com/bornyou) · [TU-PJY](https://github.com/TU-PJY)
 
 **Genre**  
 Isometric · Zombie Apocalypse · Idle Game · Turret Defense
@@ -190,8 +196,11 @@ Isometric · Zombie Apocalypse · Idle Game · Turret Defense
 
 A social-deduction game and my first project featuring networked multiplayer functionality.
 
-**Project Type**  
+**Project Type**<br>
 Team project
+
+**Team Size**<br>
+3 members · [Q1-Build](https://github.com/Q1-Build) · [hanmine12345-rgb](https://github.com/hanmine12345-rgb) · [kimMG1542](https://github.com/kimMG1542)
 
 **Genre**  
 Multiplayer · Social Deduction · NPC Disguise · Hide and Seek
@@ -221,8 +230,11 @@ Multiplayer · Social Deduction · NPC Disguise · Hide and Seek
 
 A first-person FPS inspired by Doom and my first Unity 3D game project.
 
-**Project Type**  
+**Project Type**<br>
 Team project
+
+**Team Size**<br>
+3 members · [Q1-Build](https://github.com/Q1-Build) · [myth0629](https://github.com/myth0629) · [SeoSeungHwan](https://github.com/seo12345678931)
 
 **Genre**  
 3D · First-Person Shooter · Action
