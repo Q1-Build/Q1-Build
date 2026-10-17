@@ -31,6 +31,7 @@ public static class DeveloperToolkit
     public const string IDE = "JetBrains Rider";
     public const string VersionControl = "Git & GitHub";
     public const string Documentation = "Notion";
+    public const string VideoProduction = "Higgsfield";
 }
 ```
 
@@ -62,6 +63,12 @@ Third-Person · Competitive Action · Multiplayer Arena · Item Collection
 
 **Repository**<br>
 [Private Team Repository](https://github.com/Q1-Build/ANNA-TAKES-ALL-)
+
+<p align="center">
+  <a href="https://youtu.be/suk7Wq-hxV4">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the ANNA TAKES ALL! trailer on YouTube" />
+  </a>
+</p>
 
 ---
 
