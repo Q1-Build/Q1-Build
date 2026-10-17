@@ -19,7 +19,7 @@ A 2–6-player third-person arena game built with Unreal Engine 5 and C++.
 - Developed server-authoritative gameplay and online session flows.
 - Implemented gameplay UI and player settings, and integrated combat feedback.
 
-`Unreal Engine 5` · `C++` · `Windows` · `Online Multiplayer`
+`Unreal Engine 5` · `C++` · `Windows PC` · `Online Multiplayer`
 
 [Private Team Repository](https://github.com/Q1-Build/ANNA-TAKES-ALL-)
 
@@ -60,7 +60,7 @@ Team project
 2 members · [Q1-Build](https://github.com/Q1-Build) · [40RTY](https://github.com/40RTY4)
 
 **Platform**<br>
-Windows
+Windows PC
 
 **Genre**<br>
 Third-Person · Competitive Action · Multiplayer Arena · Item Collection
@@ -100,7 +100,7 @@ A 2.5D raycasting action-horror FPS built with C++ and SFML without a game engin
 Solo personal project
 
 **Platform**<br>
-Windows
+Windows PC
 
 **Genre**<br>
 2.5D · Action Horror · First-Person Shooter · Raycasting
