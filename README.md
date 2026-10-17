@@ -65,7 +65,7 @@ Third-Person · Competitive Action · Multiplayer Arena · Item Collection
 **Role & Contributions**
 
 - Implemented server-authoritative gameplay, including character attacks and abilities, round progression, scoring, and match results.
-- Built local area network (LAN), Epic Online Services (EOS), and Steam session flows for custom rooms, six-player matchmaking, and recovery from join and leave failures.
+- Implemented listen-server multiplayer with custom rooms, six-player matchmaking, and join/leave failure recovery. Enabled LAN play and online play in an Epic Online Services (EOS) development environment and Steam's App ID 480 test environment.
 - Connected gameplay UI, scoreboards, and result screens to game state, and implemented display, audio, and key-binding settings with apply, save, and restore behavior.
 - Integrated character animations, sound effects, camera responses, and crosshair feedback with attack, hit, and movement states.
 
