@@ -10,6 +10,10 @@ Unity game developer focused on building maintainable gameplay systems, reusable
 
 ### ANNA TAKES ALL!
 
+<p align="center">
+  <img src="./assets/projects/anna-takes-all/gameplay.gif" alt="ANNA TAKES ALL! gameplay preview" width="640" />
+</p>
+
 A 2–6-player third-person arena game built with Unreal Engine 5 and C++.
 
 - Developed server-authoritative gameplay and online session flows.
@@ -42,6 +46,10 @@ public static class DeveloperToolkit
 Projects are displayed from newest to oldest, while project numbers follow the order in which they were created.
 
 ### 08. ANNA TAKES ALL!
+
+<p align="center">
+  <img src="./assets/projects/anna-takes-all/gameplay.gif" alt="ANNA TAKES ALL! gameplay preview" width="640" />
+</p>
 
 A third-person multiplayer arena game where 2–6 players collect items and use character-specific abilities to compete across three rounds.
 
