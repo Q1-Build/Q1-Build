@@ -8,20 +8,18 @@ Unity game developer focused on building maintainable gameplay systems, reusable
 
 ## 🚀 Recent Project
 
-### ANNA TAKES ALL!
+### AVIS
 
-<p align="center">
-  <img src="./assets/projects/anna-takes-all/gameplay.gif" alt="ANNA TAKES ALL! gameplay preview" width="640" />
-</p>
+https://github.com/user-attachments/assets/b064bd7d-d3c3-47d0-b624-3c18aed387a2
 
-A 2–6-player third-person arena game built with Unreal Engine 5 and C++.
+A two-player cooperative exploration and puzzle adventure in development, built with Unreal Engine 5 and C++.
 
-- Developed server-authoritative gameplay and online session flows.
-- Implemented gameplay UI and player settings, and integrated combat feedback.
+- Implemented ground-to-Owl transformation, gliding, diving, braking, and altitude-dependent climbing.
+- Connected movement, animation, visual effects, and cameras while validating listen-server synchronization.
 
-`Unreal Engine 5` · `C++` · `Windows PC` · `Online Multiplayer`
+`Unreal Engine 5` · `C++` · `Windows PC` · `Online Co-op` · `In Development`
 
-[Private Team Repository](https://github.com/Q1-Build/ANNA-TAKES-ALL-)
+[Private Team Repository](https://github.com/Backstreet-Studio/opus-01)
 
 <br>
 
